@@ -2,16 +2,15 @@
 * Created on: March 2025
 * This file contains the CSS for index.html
 */
-
 .mdl-layout__header-row {
 justify-content: center;
 padding: 0;
 }
 
 .mdl-layout__content {
-padding-left: 15pt;
-padding-right: 15pt;
-padding-top: 15pt;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 15px;
 }
 
 .mdl-textfield__error {
