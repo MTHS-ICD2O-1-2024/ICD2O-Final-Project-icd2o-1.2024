@@ -8,15 +8,5 @@
 function factorEquation() {
 
  // input
-  let firstNumber = parseFloat(document.getElementById("numberone").value)
- 
-
-  // process
-  while (firstNumber >= 1) {
-    answer = answer + secondNumber
-  firstNumber = firstNumber - 1;
-  }
-  // output
-  document.getElementById("results").innerHTML =
-  'The number is: ' + answer
+  let equation = parseFloat(document.getElementById("equation").value)
 }
