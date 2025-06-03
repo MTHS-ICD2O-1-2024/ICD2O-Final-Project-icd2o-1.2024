@@ -5,8 +5,7 @@
 // This file contains the JS functions for index.html
 'use strict'
 
-function factorEquation() {
-
- // input
-  let equation = parseFloat(document.getElementById("equation").value)
+function factorEquation () {
+  // input
+  const equation = parseFloat(document.getElementById('equation').value)
 }
